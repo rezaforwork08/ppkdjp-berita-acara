@@ -2,7 +2,7 @@
 session_start();
 include 'koneksi.php';
 include 'helpers/title.php';
-$title = getTitle($_GET['pg'] ?? '');
+$title = getTitle($_GET['pg'] ?? 'Dashboard');
 
 ?>
 <!DOCTYPE html>
@@ -82,7 +82,7 @@ $title = getTitle($_GET['pg'] ?? '');
                     </div>
                     <!-- /.card-body -->
                     <div class="card-footer">
-                        Footer
+                        Sistem Informasi Berita Acara
                     </div>
                     <!-- /.card-footer-->
                 </div>
