@@ -89,7 +89,7 @@
                         <li class="nav-item">
                             <a href="#" class="nav-link">
                                 <i class="far fa-circle nav-icon"></i>
-                                <p>Berita Aca</p>
+                                <p>Berita Acara</p>
                             </a>
                         </li>
                         <li class="nav-item">
